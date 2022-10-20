@@ -388,7 +388,8 @@ color: #07043B;
   left: 840px;
   box-sizing: border-box;
 }
-
+/* Footer Subscription End */
+/* Footer Conect Start */
 .footer_content{
   display: flex;
   align-items: flex-start;
@@ -489,3 +490,5 @@ color: #07043B;
   margin-right: 5px;
   cursor: pointer;
 }
+/* Footer Conect End */
+/* Footer End */
